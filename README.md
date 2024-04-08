@@ -47,4 +47,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or feedback, please contact Arunabha Mishra at mishrajidevloper@example.com.
+For any inquiries or feedback, please contact Arunabha Mishra at arunabhamishra39@gmail.com
