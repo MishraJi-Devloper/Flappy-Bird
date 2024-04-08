@@ -1,7 +1,7 @@
 # Flappy Bird
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Unity](https://img.shields.io/badge/Unity-2020.3.1f1-green.svg)](https://unity.com/)
+[![Unity](https://img.shields.io/badge/Unity-2021.3.1f1-green.svg)](https://unity.com/)
 
 ## Overview
 
@@ -21,4 +21,30 @@ Flappy Bird is a captivating 2D mobile game developed in Unity by Arunabha Mishr
 
 ## Installation
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine: git clone https://github.com/MishraJi-Devloper/flappy-bird.git
+   
+2. Open the project in Unity (version 2020.3.1f1 or later).
+
+3. Explore the project files, scenes, and scripts to understand the game's architecture and mechanics.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to Flappy Bird, please follow these steps:
+
+1. Fork the repository.
+
+2. Create a new branch (`git checkout -b feature/new-feature`).
+
+3. Make your changes and commit them (`git commit -am 'Add new feature'`).
+
+4. Push your changes to the branch (`git push origin feature/new-feature`).
+
+5. Create a new Pull Request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries or feedback, please contact Arunabha Mishra at mishrajidevloper@example.com.
